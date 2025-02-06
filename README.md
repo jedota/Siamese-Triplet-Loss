@@ -19,13 +19,14 @@ Available soon. Publication Under revision process.
 # Dataset
 
 All the datasets must be requested directly to the sources described in the paper:
-- Face Research Lab London: https://figshare.com/articles/dataset/Face_Research_Lab_London_Set/5047666
+- Face Research Lab London
 - Synthetic MAD evaluation benchmark datasets
 - FRGC
 - FERET
 
 # Citation:
 ```
+TBA
 
 ```
 # License
