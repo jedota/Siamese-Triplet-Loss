@@ -1,4 +1,4 @@
-# Siameses-Triple-Loss
+# Siamese-Triple-Loss
 # Single-Morphing Attack Detection Using Few-Shot Learning and Triplet-Loss.
 This is a joint effort of Juan E. Tapia, Daniel Schulz and Christoph Busch.
 
