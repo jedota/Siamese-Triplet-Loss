@@ -12,6 +12,9 @@ As an essential contribution, an FSL includes only a small number of examples fr
 
 <img width="761" alt="framework_sia7" src="https://github.com/user-attachments/assets/718d68b9-9df3-4805-b8e6-00f78833b806" />
 
+# Implementation
+Available open acceptance
+
 
 # Dataset
 
