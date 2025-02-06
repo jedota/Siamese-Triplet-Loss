@@ -4,7 +4,7 @@ This is a joint effort of Juan E. Tapia, Daniel Schulz and Christoph Busch.
 
 This work proposes to use a triplet-loss function to estimate the difficulties of each morphing tool and examine different pre-trained networks as a general framework solution. The experiments are conducted with four datasets: FERET, FRGCv2, open-source AMSL Morph, and the state-of-the-art "Synthetic-Face-Morphing-Attack-Detection-Development-dataset" (SMDD). Each one presents subsets of different morphing tools and conditions.
 
-As an essential contribution, an FSL includes only a small number of examples from a new unknown dataset to guide the training process and increase the method's performance. These examples allow us to assign the different morphing tools and attacks properly.
+As an essential contribution, an FSL includes only a small number of examples from a new unknown dataset to guide the training process and increase the method's performance. These examples allow us to assign the different morphing tools and attacks correctly.
 
 # Description Method
 
@@ -18,7 +18,11 @@ Available soon. Publication Under revision process.
 
 # Dataset
 
-All the datasets must be requested directly to the sources described in the paper.
+All the datasets must be requested directly to the sources described in the paper:
+- Face Research Lab London: https://figshare.com/articles/dataset/Face_Research_Lab_London_Set/5047666
+- Synthetic MAD evaluation benchmark datasets
+- FRGC
+- FERET
 
 # Citation:
 ```
