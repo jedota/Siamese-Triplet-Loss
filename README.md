@@ -6,6 +6,11 @@ This work proposes to use a triplet-loss function to estimate the difficulties o
 
 As an essential contribution, an FSL includes only a small number of examples from a new unknown dataset to guide the training process and increase the method's performance. These examples allow us to properly assign the different morphing tools and attacks.
 
+# Description Method
+
+<img width="975" alt="framework_sia5" src="https://github.com/user-attachments/assets/2681307e-6594-42af-b4a4-317358883983" />
+
+
 
 # Dataset
 
