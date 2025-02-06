@@ -4,9 +4,11 @@ This is a joint effort of Juan E. Tapia, Daniel Schulz and Christoph Busch.
 
 This work proposes to use a triplet-loss function to estimate the difficulties of each morphing tool and examine different pre-trained networks as a general framework solution. The experiments are conducted with four datasets: FERET, FRGCv2, open-source AMSL Morph, and the state-of-the-art "Synthetic-Face-Morphing-Attack-Detection-Development-dataset" (SMDD). Each one presents subsets of different morphing tools and conditions.
 
-As an essential contribution, an FSL includes only a small number of examples from a new unknown dataset to guide the training process and increase the method's performance. These examples allow us to properly assign the different morphing tools and attacks.
+As an essential contribution, an FSL includes only a small number of examples from a new unknown dataset to guide the training process and increase the method's performance. These examples allow us to assign the different morphing tools and attacks properly.
 
 # Description Method
+
+ General representation of our modified Siamese network for Morphing attack detection. The images are cropped before being input into the network. Xa, Xb and Xn represent the anchor, positive and negative images, respectively. The f(Xa), f(Xb), and f(Xn) represent the embedding space for each image after feature extraction. The three possible distances for negative examples (easy, hard, semi-hard) are included as references.
 
 <img width="975" alt="framework_sia5" src="https://github.com/user-attachments/assets/2681307e-6594-42af-b4a4-317358883983" />
 
