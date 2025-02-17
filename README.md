@@ -13,6 +13,7 @@ As an essential contribution, an FSL includes only a small number of examples fr
 <img width="761" alt="framework_sia7" src="https://github.com/user-attachments/assets/718d68b9-9df3-4805-b8e6-00f78833b806" />
 
 # Implementation
+- Download the files to your own folder and enviroment
 - To run the algorithm it is neccesary to create three txt files (train.txt, val.txt and test.txt) 
 - The structure should be: name_image label;
 - The label must be 0 for attack or 1 for bona fide.
