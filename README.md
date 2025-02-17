@@ -13,11 +13,9 @@ As an essential contribution, an FSL includes only a small number of examples fr
 <img width="761" alt="framework_sia7" src="https://github.com/user-attachments/assets/718d68b9-9df3-4805-b8e6-00f78833b806" />
 
 # Implementation
-It is ncessary to create three txt files (train.txt, val.txt and test.txt) considering each one: name_image label label;
+To run the algorithm it is neccesary to create three txt files (train.txt, val.txt and test.txt) considering each one: name_image label label;
 
-```
-python siamese_network.py
-
+```python siamese_network.py
 ```
 # Dataset
 
