@@ -16,8 +16,8 @@ As an essential contribution, an FSL includes only a small number of examples fr
 - Download the files to your own folder and enviroment based on python 3.0 and tensforflow 2.10.0. (tf_2.10.0)
 - Explore siameses netwrok.py to define level of data-augmentation, parameters (epoch, lr and others) and loss.
 - Three loss implementation are available: constractive loss, Triplet_semi_hard_loss and Triplet_hard_loss
-- To run the algorithm it is neccesary to create three txt files (train.txt, val.txt and test.txt). 
-- The structure should be: name_image label;
+- To run the algorithm it is neccesary to create three txt files with the path files (train.txt, val.txt and test.txt). 
+- The structure txt file should be: name_image label;
 - The label must be 0 for attack or 1 for bona fide.
 
 ```
