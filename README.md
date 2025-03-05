@@ -13,11 +13,12 @@ As an essential contribution, an FSL includes only a small number of examples fr
 <img width="761" alt="framework_sia7" src="https://github.com/user-attachments/assets/718d68b9-9df3-4805-b8e6-00f78833b806" />
 
 # Implementation
-- Download the files to your own folder and enviroment based on python 3.0 and tensforflow 2.10.0. (tf_2.10.0)
+- Download the repository to your own folder.
+- Create the virtual environment using conda and the yml file provided (environment.yml).
 - Explore siameses netwrok.py to define level of data-augmentation, parameters (epoch, lr and others) and loss.
-- Three loss implementation are available: constractive loss, Triplet_semi_hard_loss and Triplet_hard_loss
+- Three loss implementation are available: constractive loss, Triplet_semi_hard_loss and Triplet_hard_loss.
 - To run the algorithm it is neccesary to create three txt files with the path files (train.txt, val.txt and test.txt). 
-- The structure txt file should be: name_image label;
+- The structure txt file should be: name_image label.
 - The label must be 0 for attack or 1 for bona fide.
 
 ```
